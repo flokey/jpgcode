@@ -228,3 +228,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+command.txt
+Makefile
+stdlib.h
+stdio.h
+string.h
